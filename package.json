@@ -1,0 +1,21 @@
+{
+  "name": "deeplogictech",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AYUSH KUMAR",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.2",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
