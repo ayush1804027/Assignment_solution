@@ -42,19 +42,6 @@ axios(url).then(function(html){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 app.listen(process.env.PORT || 3000,function(){
   console.log("Server is running at port 3000 .");
 });
